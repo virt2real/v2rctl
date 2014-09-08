@@ -11,44 +11,44 @@ Roadmap
 * [w] Working with video via gstreamer/gstd controled by REST/JSON-RPC via web UI
 
 ### 1st iteration 
-* [ ] System controm
-.* [ ] Kernel startup params
-.* [ ] Startup services and daemons
-.* [ ] Logs extract
-.* [ ] Reset & Shutdown
-.* [ ] Software control (install/remove/updare)
-.* [ ] Flash to NAND ROM 
-.* [ ] File manager & upload/download
-.* [ ] Runtime control (start/stop services and applications) 
-.* [ ] Device info 
-.* [ ] Usage statistics 
-* [ ] Network configuration and status
-.* [ ] Wi-Fi configuration (AP/Client modes)
-.* [ ] Ethernet & USB configuration
-.* [ ] 3G/LTE configuration
-.* [ ] DHCP client/server
-.* [ ] Routing and firewall
-.* [ ] Tunnels and VPN
-* [ ] Video/audio control
-.* [ ] Custom video presets
-.* [ ] Broadcasting types
-.* [ ] Client's support (Flash, VLC, QT) 
-.* [ ] Broadcasting services integration
-.* [ ] Camera configurations
-* [ ] I/O control
-.* [ ] USB devices
-.* [ ] GPIO operations
-.* [ ] I2C operations
-.* [ ] SPI operations
-.* [ ] PWM/PPM operations
-.* [ ] DAC/ADC operations
-* [ ] Common devices support
-.* [ ] Shields support
-.* [ ] GPS/GLONASS support
-.* [ ] Additional data sources support
+* [_] System controm
+.* [_] Kernel startup params
+.* [_] Startup services and daemons
+.* [_] Logs extract
+.* [_] Reset & Shutdown
+.* [_] Software control (install/remove/updare)
+.* [_] Flash to NAND ROM 
+.* [_] File manager & upload/download
+.* [_] Runtime control (start/stop services and applications) 
+.* [_] Device info 
+.* [_] Usage statistics 
+* [_] Network configuration and status
+.* [_] Wi-Fi configuration (AP/Client modes)
+.* [_] Ethernet & USB configuration
+.* [_] 3G/LTE configuration
+.* [_] DHCP client/server
+.* [_] Routing and firewall
+.* [_] Tunnels and VPN
+* [_] Video/audio control
+.* [_] Custom video presets
+.* [_] Broadcasting types
+.* [_] Client's support (Flash, VLC, QT) 
+.* [_] Broadcasting services integration
+.* [_] Camera configurations
+* [_] I/O control
+.* [_] USB devices
+.* [_] GPIO operations
+.* [_] I2C operations
+.* [_] SPI operations
+.* [_] PWM/PPM operations
+.* [_] DAC/ADC operations
+* [_] Common devices support
+.* [_] Shields support
+.* [_] GPS/GLONASS support
+.* [_] Additional data sources support
 
 ### Misc functions
-* [ ] Interactive shell
-* [ ] Autodeployment to device (one command) 
-* [ ] Autoremove
-* [ ] Trusted autoupdates
+* [_] Interactive shell
+* [_] Autodeployment to device (one command) 
+* [_] Autoremove
+* [_] Trusted autoupdates
